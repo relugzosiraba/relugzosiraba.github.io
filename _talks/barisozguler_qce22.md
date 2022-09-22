@@ -10,4 +10,4 @@ location: "Broomfield, CO"
 
 [Conference website](https://qce.quantum.ieee.org/2022)
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Invited talk at the workshop <a href="https://events.cels.anl.gov/event/332/overview" style="color:Navy;">Advanced Simulations of Quantum Computations</a>
