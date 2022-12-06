@@ -10,4 +10,4 @@ location: "Broomfield, CO"
 
 <a href="https://relugzosiraba.github.io/presentations/BarisOzguler_QCE22.pptx" style="color:Navy;">Click here for my presentation</a>
 
-Invited talk at the workshop <a href="https://events.cels.anl.gov/event/332/overview" style="color:Navy;">Advanced Simulations of Quantum Computations</a> at [QCE22](https://qce.quantum.ieee.org/2022).
+Invited talk in the workshop <a href="https://events.cels.anl.gov/event/332/overview" style="color:Navy;">Advanced Simulations of Quantum Computations</a> at [QCE22](https://qce.quantum.ieee.org/2022).
