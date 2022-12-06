@@ -1,7 +1,7 @@
 ---
 title: "Quantum Control, Dynamics & Neural Network Accelerators"
 collection: talks
-type: "Talk"
+type: "Invited Talk"
 permalink: /talks/barisozguler_Princeton_11_18_2022
 venue: "Princeton University"
 date: 2022-11-18
